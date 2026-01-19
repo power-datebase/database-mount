@@ -1,4 +1,6 @@
 return {
+    {Name = "Mount Marohmoy  ", Link = "https://raw.githubusercontent.com/power-datebase/list-mount/refs/heads/main/marohmoy.lua"},
+    {Name = "Pulau Apung ", Link = "https://raw.githubusercontent.com/power-datebase/list-mount/refs/heads/main/pulau.lua"},
     {Name = "Mount Velora ", Link = "https://raw.githubusercontent.com/Abangapeng/FREE-VELORA/refs/heads/main/VIP-velora.lua"},
     {Name = "Mount Aktif ", Link = "https://raw.githubusercontent.com/power-datebase/list-mount/refs/heads/main/aktif.lua"},
 {Name = "Mount Freestyle ", Link = "https://raw.githubusercontent.com/power-datebase/list-mount/refs/heads/main/freestyle.lua"},
